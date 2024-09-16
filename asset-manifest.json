@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyWebsite/static/css/main.8c9e40dd.css",
-    "main.js": "/MyWebsite/static/js/main.866c272f.js",
+    "main.js": "/MyWebsite/static/js/main.004975fe.js",
     "static/css/64.bba8fa55.chunk.css": "/MyWebsite/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/MyWebsite/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/MyWebsite/static/css/769.b3cbb36b.chunk.css",
@@ -9,17 +9,17 @@
     "static/media/sdr.webp": "/MyWebsite/static/media/sdr.45192ed39db950f5b0c2.webp",
     "static/media/dr.webp": "/MyWebsite/static/media/dr.b672f0cbb7fc64594d10.webp",
     "static/media/Montserrat-Regular.ttf": "/MyWebsite/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/MyWebsite/static/media/resume.2ba3421edb8a1061814e.pdf",
     "static/media/Agustina.woff": "/MyWebsite/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/MyWebsite/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/MyWebsite/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/MyWebsite/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/MyWebsite/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/download.jfif": "/MyWebsite/static/media/download.53705a18b5948e045fbb.jfif",
-    "static/media/resume.pdf": "/MyWebsite/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/MyWebsite/index.html",
     "static/media/talksCardBack.svg": "/MyWebsite/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8c9e40dd.css.map": "/MyWebsite/static/css/main.8c9e40dd.css.map",
-    "main.866c272f.js.map": "/MyWebsite/static/js/main.866c272f.js.map",
+    "main.004975fe.js.map": "/MyWebsite/static/js/main.004975fe.js.map",
     "64.bba8fa55.chunk.css.map": "/MyWebsite/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/MyWebsite/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/MyWebsite/static/css/769.b3cbb36b.chunk.css.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.8c9e40dd.css",
-    "static/js/main.866c272f.js"
+    "static/js/main.004975fe.js"
   ]
 }
